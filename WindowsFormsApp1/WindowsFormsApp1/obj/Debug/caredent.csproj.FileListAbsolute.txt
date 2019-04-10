@@ -1,0 +1,57 @@
+C:\Users\MAGIC\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\MAGIC\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\MAGIC\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\MAGIC\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\MAGIC\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\MAGIC\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Permissions.dll
+C:\Users\MAGIC\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\MAGIC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\caredent.csprojAssemblyReference.cache
+C:\Users\MAGIC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.add.resources
+C:\Users\MAGIC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Card.resources
+C:\Users\MAGIC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.caredent.resources
+C:\Users\MAGIC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Logowanie.resources
+C:\Users\MAGIC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\MAGIC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Serach.resources
+C:\Users\MAGIC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\caredent.csproj.GenerateResource.cache
+C:\Users\MAGIC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\caredent.csproj.CoreCompileInputs.cache
+C:\Users\MAGIC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\caredent.csproj.CopyComplete
+C:\Users\MAGIC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\MAGIC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\MARCIN\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\INŻ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\MARCIN\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\INŻ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\MARCIN\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\INŻ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\MARCIN\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\INŻ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\MARCIN\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\INŻ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\MARCIN\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\INŻ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Permissions.dll
+C:\Users\MARCIN\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\INŻ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\MARCIN\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\INŻ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\caredent.csprojAssemblyReference.cache
+C:\Users\MARCIN\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\INŻ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.add.resources
+C:\Users\MARCIN\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\INŻ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Card.resources
+C:\Users\MARCIN\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\INŻ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.caredent.resources
+C:\Users\MARCIN\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\INŻ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Logowanie.resources
+C:\Users\MARCIN\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\INŻ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\MARCIN\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\INŻ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Serach.resources
+C:\Users\MARCIN\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\INŻ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\caredent.csproj.GenerateResource.cache
+C:\Users\MARCIN\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\INŻ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\caredent.csproj.CoreCompileInputs.cache
+C:\Users\MARCIN\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\INŻ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\caredent.csproj.CopyComplete
+C:\Users\MARCIN\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\INŻ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\MARCIN\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\INŻ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\MAGIC\Desktop\INŻ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\MAGIC\Desktop\INŻ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\MAGIC\Desktop\INŻ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\MAGIC\Desktop\INŻ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\MAGIC\Desktop\INŻ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\MAGIC\Desktop\INŻ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Permissions.dll
+C:\Users\MAGIC\Desktop\INŻ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\MAGIC\Desktop\INŻ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\caredent.csprojAssemblyReference.cache
+C:\Users\MAGIC\Desktop\INŻ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.add.resources
+C:\Users\MAGIC\Desktop\INŻ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Card.resources
+C:\Users\MAGIC\Desktop\INŻ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.caredent.resources
+C:\Users\MAGIC\Desktop\INŻ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Logowanie.resources
+C:\Users\MAGIC\Desktop\INŻ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\MAGIC\Desktop\INŻ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Serach.resources
+C:\Users\MAGIC\Desktop\INŻ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\caredent.csproj.GenerateResource.cache
+C:\Users\MAGIC\Desktop\INŻ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\caredent.csproj.CoreCompileInputs.cache
+C:\Users\MAGIC\Desktop\INŻ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\caredent.csproj.CopyComplete
+C:\Users\MAGIC\Desktop\INŻ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\MAGIC\Desktop\INŻ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
